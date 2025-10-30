@@ -48,8 +48,8 @@
 ---
 
 ## 5) Changelog / 變更紀錄
-- 2025-06-__ : Initial publication with wallet mapping & proof files.
-- 2025-06-__ : Minor updates to social links / wording.
+- 2025-10-30 : Initial publication with wallet mapping & proof files.
+- 2025-10-30 : Minor updates to social links / wording.
 
 ---
 
